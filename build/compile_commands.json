@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/kashif/SDR/valgrind/build/app",
+  "command": "/usr/bin/c++  -I/home/kashif/SDR/valgrind/include -std=gnu++14 -o CMakeFiles/shell-app.dir/AnalogSensor.cpp.o -c /home/kashif/SDR/valgrind/app/AnalogSensor.cpp",
+  "file": "/home/kashif/SDR/valgrind/app/AnalogSensor.cpp"
+},
+{
+  "directory": "/home/kashif/SDR/valgrind/build/app",
+  "command": "/usr/bin/c++  -I/home/kashif/SDR/valgrind/include -std=gnu++14 -o CMakeFiles/shell-app.dir/main.cpp.o -c /home/kashif/SDR/valgrind/app/main.cpp",
+  "file": "/home/kashif/SDR/valgrind/app/main.cpp"
+}
+]
